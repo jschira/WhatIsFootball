@@ -1,4 +1,6 @@
-Challenge exercise from SwiftUI course with the graphical requirements below.
+Ch 1. Challenge exercise from SwiftUI course with the graphical requirements below.
+From Build Apps w/Swift + SwiftUI by Prof. John Gallaugher
+https://www.youtube.com/playlist?list=PL9VJ9OpT-IPSM6dFSwQCIl409gNBsqKTe
 
 Contact me at: www.linkedin.com/in/jayschira
 
